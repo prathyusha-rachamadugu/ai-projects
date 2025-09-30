@@ -1,21 +1,37 @@
 # ai-projects
 Welcome to my portfolio showcasing projects in Artificial Intelligence, data analysis, and workflow automation. Each project demonstrates technical skills in Python, machine learning, data visualization, and automation.
 
-📂 Projects
-1. Chatbot Project
+# 🤖 AI Projects Portfolio  
 
-An intelligent chatbot that can interact with users, handle queries, and simulate natural conversations.
-🔗 View Project
+Welcome! This repository showcases my AI projects developed as part of my learning journey and master's program in Computer Science at Saint Leo University (expected graduation: December 2025).  
 
-2. Intelligent Data Analysis Dashboard
+Each project folder contains a detailed README with setup instructions, examples, and explanations.  
 
-A dashboard that provides insights using data analysis, visualizations, and machine learning models.
-🔗 View Project
+---
 
-3. AI Workflow Automation
+## 📂 Projects  
 
-Automates repetitive workflows with AI-based decision-making and process optimization.
-🔗 View Project
+### 1. [AI Workflow Automation](./AI_Workflow_Automation/README.md) 🚀  
+Automating repetitive processes with AI-driven workflows.  
+🔗 [View Project](./AI_Workflow_Automation/README.md)  
+
+### 2. [Intelligent Data Analysis Dashboard](./Intelligent_Data_Analysis_Dashboard/README.md) 📊  
+Dashboard for interactive visualizations and predictive analytics.  
+🔗 [View Project](./Intelligent_Data_Analysis_Dashboard/README.md)  
+
+### 3. [Chatbot Project](./Chatbot_Project/README.md) 💬  
+Conversational AI chatbot with NLP capabilities.  
+🔗 [View Project](./Chatbot_Project/README.md)  
+
+---
+
+## 💡 Notes  
+
+- Each project folder includes a README with detailed instructions on setup, usage, and examples.  
+- These projects reflect my hands-on experience with AI, machine learning, and data analysis techniques.  
+
+---
+
 
 🛠️ Technologies Used
 
